@@ -1,0 +1,96 @@
+.general{
+    margin-bottom: 40px;
+}
+
+.general-slider{
+    margin-bottom: 40px;
+}
+
+.general__slid{
+    position: relative;
+}
+
+.general__slid img{
+    z-index: -5;
+}
+
+.general__slid-text{
+    font-family: 'Ariston';
+    font-size: 4em;
+    top: 25%;
+    left: 10%;
+    position: absolute;
+    color: #FFFFFF;
+}
+
+.general__proposal{
+    font-family: 'Noto Serif';
+}
+
+.general__proposal__text{
+    color: #3388ab;
+    text-align: center;
+    padding-bottom: 40px;
+}
+
+.general__proposal__text h2{
+    font-size: 3em;
+    margin-bottom: 5px;
+}
+
+.general__proposal__text span{
+    font-size: 1.5em;
+    font-style: italic;
+}
+
+.general__proposal-items{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.general__proposal__item{
+    flex-basis: calc(33% - 10px);
+    position: relative;
+}
+
+.general__proposal__item-head{
+    font-weight: 700;
+    display: block;
+}
+
+.general__proposal__item-view{
+    font-style: italic;
+}
+
+.general__proposal__item-pris{
+    font-size: 2em;
+    display: flex;
+    align-items: center;
+    margin-left: 70px;
+    padding-right: 6px;
+}
+
+.general__proposal__item-pris-sir, .general__proposal__item-pris-love, .general__proposal__item-pris-cofe{
+    margin-left: 65px;
+}
+
+.general__proposal__item-pris img{
+    padding: 0 10px;
+}
+
+.general__proposal__item-description{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(121, 121, 121, .5);
+    padding: 10px;
+    color: #FFFFFF;
+    position: absolute;
+    bottom: 2px;
+}
+
+.general__proposal__item-description:hover{
+    background-color: rgba(217, 217, 217, .7);
+    color: #000;
+}

@@ -1,0 +1,27 @@
+.head{
+    background-color: #d6e7ee;
+    position: relative;
+}
+
+.head-logo img{
+    width: 500px;
+    margin-left: -100px;
+}
+
+.head-languages{
+    display: inline-block;
+    float: right;
+    margin-top: 20px;
+}
+
+.head-nav{
+    position: absolute;
+    bottom: 15px;
+    left: 12%;
+}
+
+.head-nav a{
+    padding: 10px 5px;
+    font-family: 'Noto Serif';
+    font-weight: 700;
+}

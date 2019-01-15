@@ -1,0 +1,73 @@
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Regular.woff2') format('woff2'),
+    url('../fonts/OpenSans-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Open Sans';
+    src: url('../fonts/OpenSans-Bold.woff2') format('woff2'),
+    url('../fonts/OpenSans-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/Roboto-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Ariston';
+    src: url('../fonts/ariston_normal.ttf') format('ttf'),
+    url('../fonts/ariston_normal.ttf') format('ttf');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('../fonts/notoserif/notoserif.woff2')  format('woff2'),
+    url('../fonts/notoserif/notoserif.woff') format('woff');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('../fonts/notoserif/notoserifitalic.woff2')  format('woff2'),
+    url('../fonts/notoserif/notoserifitalic.woff') format('woff');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('../fonts/notoserif/notoserifbold.woff2')  format('woff2'),
+    url('../fonts/notoserif/notoserifbold.woff') format('woff');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'Noto Serif';
+    src: url('../fonts/notoserif/notoserifbolditalic.woff2')  format('woff2'),
+    url('../fonts/notoserif/notoserifbolditalic.woff') format('woff');
+    font-weight: 700;
+    font-style: italic;
+}

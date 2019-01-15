@@ -1,0 +1,38 @@
+.foot{
+    background-color: #ece6e2;
+    padding-top: 20px;
+    font-family: 'Noto Serif';
+}
+
+.foot-nav{
+    text-align: center;
+    margin: 20px 0 40px 0;
+}
+
+.foot-nav a{
+    padding: 10px 5px;
+    font-weight: 700;
+}
+
+.foot__contacts{
+    display: flex;
+    margin-left: 70px;
+    margin-bottom: 40px;
+}
+
+.foot__contacts__head{
+    margin-bottom: 20px;
+}
+
+.foot__contacts__social, .foot-copyright{
+    margin-left: 70px;
+}
+
+.foot__contacts__social-button{
+    display: flex;
+    justify-content: center;
+}
+
+.foot__contacts__social-button img{
+    margin: 0 10px;
+}
